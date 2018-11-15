@@ -1,0 +1,53 @@
+2018-08-29 04:59:17.977481	FindDllInj on /media/sf_Shared/KALI/MSEdge - Win10_preview-eaaa27c2-dll_inj_before.vmem TimeWindow: 10 OneProcess: True
+Pid	Description	ImageFileName	Dll	DllLoadTime	TimeDifference from previously loaded Dll in sec	ThreadPid	ThreadTid	ThreadLoadTime	ThreadExitTime	ThreadHandlePid
+4	Warning: No Imported Dll found	System
+4	Warning: No Loaded Dlls found	System
+296	Warning: No Imported Dll found	smss.exe
+396	Warning: No Imported Dll found	csrss.exe
+464	Warning: No Imported Dll found	smss.exe
+464	Warning: No Loaded Dlls found	smss.exe
+472	Warning: No Imported Dll found	wininit.exe
+480	Warning: No Imported Dll found	csrss.exe
+548	Warning: No Imported Dll found	winlogon.exe
+596	Warning: No Imported Dll found	services.exe
+604	Warning: No Imported Dll found	lsass.exe
+856	Warning: No Imported Dll found	dwm.exe
+800	Warning: No Imported Dll found	vmacthlp.exe
+1484	Warning: No Imported Dll found	spoolsv.exe
+1844	Warning: No Imported Dll found	IpOverUsbSvc.e
+1928	Warning: No Imported Dll found	MsMpEng.exe
+2012	Warning: No Imported Dll found	VGAuthService.
+1172	Warning: No Imported Dll found	MemCompression
+1172	Warning: No Loaded Dlls found	MemCompression
+2472	Warning: No Imported Dll found	WmiPrvSE.exe
+2588	Warning: No Imported Dll found	dllhost.exe
+2784	Warning: No Imported Dll found	cygrunsrv.exe
+2840	Warning: No Imported Dll found	msdtc.exe
+3060	Warning: No Imported Dll found	cygrunsrv.exe
+3060	Warning: No Loaded Dlls found	cygrunsrv.exe
+1144	Warning: No Imported Dll found	conhost.exe
+2288	Warning: No Imported Dll found	sshd.exe
+3460	Warning: No Imported Dll found	RuntimeBroker.
+3472	Warning: No Imported Dll found	NisSrv.exe
+3716	Warning: No Imported Dll found	userinit.exe
+3716	Warning: No Loaded Dlls found	userinit.exe
+3804	Warning: No Imported Dll found	explorer.exe
+3396	Warning: No Imported Dll found	SearchIndexer.
+3200	Warning: No Loaded Dlls found	ShellExperienc
+4320	Warning: No Imported Dll found	SearchUI.exe
+4320	Warning: No Loaded Dlls found	SearchUI.exe
+852	Warning: No Imported Dll found	OneDrive.exe
+2380	Warning: No Imported Dll found	SkypeHost.exe
+2380	Warning: No Loaded Dlls found	SkypeHost.exe
+6964	Warning: No Imported Dll found	ProcessHackerP
+6436	Warning: No Imported Dll found	TrustedInstall
+6436	Warning: No Loaded Dlls found	TrustedInstall
+6160	Warning: No Imported Dll found	TiWorker.exe
+6160	Warning: No Loaded Dlls found	TiWorker.exe
+1688	Warning: No Imported Dll found	cmd.exe
+1688	Warning: No Loaded Dlls found	cmd.exe
+4828	Warning: No Imported Dll found	ipconfig.exe
+4828	Warning: No Loaded Dlls found	ipconfig.exe
+664	Warning: No handle found	svchost.exe	c:\windows\system32\licensemanagersvc.dll	2018-03-31 10:38:03	5	664	912	2018-03-31 10:37:57 UTC+0000	 	0
+1136	Warning: No handle found	svchost.exe	c:\windows\system32\cryptsvc.dll	2018-03-31 10:35:49	3	1136	1684	2018-03-31 10:35:46 UTC+0000	 	0
+2018-08-29 05:12:10.339082

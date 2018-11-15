@@ -1,0 +1,84 @@
+2018-08-26 09:40:57.331447	FindDllInj on /media/sf_Shared/KALI/MSEdge - Win10_preview-eaaa27c2-dll_inj_after_term-new.vmem TimeWindow: 10 OneProcess: False
+Pid	Description	ImageFileName	Dll	DllLoadTime	TimeDifference from previously loaded Dll in sec	ThreadPid	ThreadTid	ThreadLoadTime	ThreadExitTime	ThreadHandlePid
+4	Warning: No Imported Dll found	System
+4	Warning: No Loaded Dlls found	System
+296	Warning: No Imported Dll found	smss.exe
+396	Warning: No Imported Dll found	csrss.exe
+464	Warning: No Imported Dll found	smss.exe
+464	Warning: No Loaded Dlls found	smss.exe
+472	Warning: No Imported Dll found	wininit.exe
+480	Warning: No Imported Dll found	csrss.exe
+1844	Warning: No Imported Dll found	IpOverUsbSvc.e
+1172	Warning: No Imported Dll found	MemCompression
+1172	Warning: No Loaded Dlls found	MemCompression
+3060	Warning: No Imported Dll found	cygrunsrv.exe
+3060	Warning: No Loaded Dlls found	cygrunsrv.exe
+3716	Warning: No Imported Dll found	userinit.exe
+3716	Warning: No Loaded Dlls found	userinit.exe
+6964	Warning: No Imported Dll found	ProcessHackerP
+164	Warning: No Imported Dll found	OneDrive.exe
+7108	Warning: No Imported Dll found	cmd.exe
+7108	Warning: No Loaded Dlls found	cmd.exe
+3720	Warning: No Imported Dll found	conhost.exe
+1040	Warning: No Imported Dll found	ipconfig.exe
+1040	Warning: No Loaded Dlls found	ipconfig.exe
+596	Warning: No handle found	services.exe	c:\windows\system32\spinf.dll	2018-03-31 10:35:49	6	596	728	2018-03-31 10:35:43 UTC+0000	 	0
+604	Warning: No handle found	lsass.exe	c:\windows\system32\wevtapi.dll	2018-03-31 10:35:47	5	604	620	2018-03-31 10:35:42 UTC+0000	 	0
+604	Warning: No handle found	lsass.exe	c:\windows\system32\wevtapi.dll	2018-03-31 10:35:47	5	604	640	2018-03-31 10:35:42 UTC+0000	 	0
+604	Warning: No handle found	lsass.exe	c:\windows\system32\mpr.dll	2018-03-31 10:35:49	2	604	620	2018-03-31 10:35:42 UTC+0000	 	0
+604	Warning: No handle found	lsass.exe	c:\windows\system32\mpr.dll	2018-03-31 10:35:49	2	604	640	2018-03-31 10:35:42 UTC+0000	 	0
+684	Warning: No handle found	svchost.exe	c:\windows\system32\onecoreuapcommonproxystub.dll	2018-03-31 10:36:07	21	684	3692	2018-03-31 10:36:07 UTC+0000	 	0
+684	Warning: No handle found	svchost.exe	c:\windows\system32\rsaenh.dll	2018-03-31 10:36:12	3	684	3692	2018-03-31 10:36:07 UTC+0000	 	0
+684	Warning: No handle found	svchost.exe	c:\windows\system32\rsaenh.dll	2018-03-31 10:36:12	3	684	3828	2018-03-31 10:36:08 UTC+0000	 	0
+1012	Warning: No handle found	svchost.exe	c:\windows\system32\timebrokerclient.dll	2018-03-31 10:35:56	5	1012	1968	2018-03-31 10:35:50 UTC+0000	 	0
+664	Warning: No handle found	svchost.exe	c:\windows\system32\sxs.dll	2018-03-31 10:35:51	5	664	1108	2018-03-31 10:35:44 UTC+0000	 	0
+664	Warning: No handle found	svchost.exe	c:\windows\system32\propsys.dll	2018-03-31 10:35:54	2	664	1108	2018-03-31 10:35:44 UTC+0000	 	0
+664	Warning: No handle found	svchost.exe	c:\windows\system32\cdprt.dll	2018-03-31 10:37:57	119	664	912	2018-03-31 10:37:57 UTC+0000	 	0
+664	Warning: No handle found	svchost.exe	c:\windows\system32\licensemanagersvc.dll	2018-03-31 10:38:03	5	664	912	2018-03-31 10:37:57 UTC+0000	 	0
+1052	Warning: No handle found	svchost.exe	c:\windows\system32\usermgrcli.dll	2018-03-31 10:35:48	2	1052	1268	2018-03-31 10:35:45 UTC+0000	 	0
+1052	Warning: No handle found	svchost.exe	c:\windows\system32\dhcpcsvc.dll	2018-03-31 10:35:55	2	1052	1268	2018-03-31 10:35:45 UTC+0000	 	0
+1052	Warning: No handle found	svchost.exe	c:\windows\system32\dhcpcsvc.dll	2018-03-31 10:35:55	2	1052	2408	2018-03-31 10:35:53 UTC+0000	 	0
+1052	Warning: No handle found	svchost.exe	c:\windows\system32\fwpolicyiomgr.dll	2018-03-31 10:35:59	2	1052	2408	2018-03-31 10:35:53 UTC+0000	 	0
+1052	Warning: No handle found	svchost.exe	c:\windows\system32\mrmcorer.dll	2018-03-31 10:36:05	2	1052	3188	2018-03-31 10:36:02 UTC+0000	 	0
+1052	Warning: No handle found	svchost.exe	c:\windows\system32\mrmcorer.dll	2018-03-31 10:36:05	2	1052	3192	2018-03-31 10:36:02 UTC+0000	 	0
+1052	Warning: No handle found	svchost.exe	c:\windows\system32\mrmcorer.dll	2018-03-31 10:36:05	2	1052	3240	2018-03-31 10:36:02 UTC+0000	 	0
+1052	Warning: No handle found	svchost.exe	c:\windows\system32\flightsettings.dll	2018-05-03 12:49:01	355	1052	5188	2018-05-03 12:49:01 UTC+0000	 	0
+1052	Warning: No handle found	svchost.exe	c:\windows\system32\flightsettings.dll	2018-05-03 12:49:01	355	1052	2028	2018-05-03 12:49:01 UTC+0000	 	0
+1052	Warning: No handle found	svchost.exe	c:\windows\system32\netsetupsvc.dll	2018-05-03 12:49:27	26	1052	6532	2018-05-03 12:49:27 UTC+0000	 	0
+1136	Warning: No handle found	svchost.exe	c:\windows\system32\cryptsvc.dll	2018-03-31 10:35:49	3	1136	1684	2018-03-31 10:35:46 UTC+0000	 	0
+1136	Warning: No handle found	svchost.exe	c:\windows\system32\vssapi.dll	2018-03-31 10:35:51	2	1136	1684	2018-03-31 10:35:46 UTC+0000	 	0
+1136	Warning: No handle found	svchost.exe	c:\windows\system32\esent.dll	2018-03-31 10:36:06	15	1136	3612	2018-03-31 10:36:06 UTC+0000	 	0
+1824	Warning: No handle found	svchost.exe	c:\windows\system32\windows.networking.connectivity.dll	2018-03-31 10:35:58	5	1824	2224	2018-03-31 10:35:52 UTC+0000	 	0
+1824	Warning: No handle found	svchost.exe	c:\windows\system32\ondemandconnroutehelper.dll	2018-05-03 12:49:01	2858240	1824	4340	2018-05-03 12:49:00 UTC+0000	 	0
+1900	Warning: No handle found	svchost.exe	c:\windows\system32\wtsapi32.dll	2018-03-31 10:36:10	15	1900	3980	2018-03-31 10:36:10 UTC+0000	 	0
+1900	Warning: No handle found	svchost.exe	c:\windows\system32\wtsapi32.dll	2018-03-31 10:36:10	15	1900	3988	2018-03-31 10:36:10 UTC+0000	 	0
+1900	Warning: No handle found	svchost.exe	c:\windows\system32\bcrypt.dll	2018-03-31 10:36:20	10	1900	3980	2018-03-31 10:36:10 UTC+0000	 	0
+1900	Warning: No handle found	svchost.exe	c:\windows\system32\bcrypt.dll	2018-03-31 10:36:20	10	1900	3988	2018-03-31 10:36:10 UTC+0000	 	0
+1928	Warning: No handle found	MsMpEng.exe	c:\windows\system32\xmllite.dll	2018-05-03 12:49:01	368	1928	4000	2018-05-03 12:49:01 UTC+0000	 	0
+1928	Warning: No handle found	MsMpEng.exe	c:\windows\system32\xmllite.dll	2018-05-03 12:49:01	368	1928	5752	2018-05-03 12:49:01 UTC+0000	 	0
+2004	Warning: No handle found	vmtoolsd.exe	c:\windows\system32\perfos.dll	2018-03-31 10:36:55	6	2004	4756	2018-03-31 10:36:55 UTC+0000	 	0
+2472	Warning: No handle found	WmiPrvSE.exe	c:\windows\system32\wbem\vdswmi.dll	2018-05-03 12:49:09	979	2472	5896	2018-05-03 12:49:09 UTC+0000	 	0
+2472	Warning: No handle found	WmiPrvSE.exe	c:\windows\system32\wbem\vdswmi.dll	2018-05-03 12:49:09	979	2472	6024	2018-05-03 12:49:09 UTC+0000	 	0
+2472	Warning: No handle found	WmiPrvSE.exe	c:\windows\system32\sppwmi.dll	2018-05-03 12:49:11	2	2472	5896	2018-05-03 12:49:09 UTC+0000	 	0
+2472	Warning: No handle found	WmiPrvSE.exe	c:\windows\system32\sppwmi.dll	2018-05-03 12:49:11	2	2472	6024	2018-05-03 12:49:09 UTC+0000	 	0
+3320	Warning: No handle found	svchost.exe	c:\windows\system32\veeventdispatcher.dll	2018-03-31 10:36:06	2	3320	3552	2018-03-31 10:36:06 UTC+0000	 	0
+3320	Warning: No handle found	svchost.exe	c:\windows\system32\msvcp110_win.dll	2018-03-31 10:36:06	2	3320	3552	2018-03-31 10:36:06 UTC+0000	 	0
+3320	Warning: No handle found	svchost.exe	c:\windows\system32\actxprxy.dll	2018-03-31 10:36:11	4	3320	3552	2018-03-31 10:36:06 UTC+0000	 	0
+3420	Warning: No handle found	taskhostw.exe	c:\windows\system32\userenv.dll	2018-03-31 10:36:23	15	3420	4672	2018-03-31 10:36:23 UTC+0000	 	0
+3420	Warning: No handle found	taskhostw.exe	c:\windows\system32\userenv.dll	2018-03-31 10:36:23	15	3420	4696	2018-03-31 10:36:23 UTC+0000	 	0
+3804	Warning: No handle found	explorer.exe	c:\windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.14393.1715_none_aec701fbddd850fa\gdiplus.dll	2018-03-31 10:36:22	8	3804	1044	2018-03-31 10:36:12 UTC+0000	 	0
+3804	Warning: No handle found	explorer.exe	c:\windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.14393.1715_none_aec701fbddd850fa\gdiplus.dll	2018-03-31 10:36:22	8	3804	1276	2018-03-31 10:36:13 UTC+0000	 	0
+3200	Warning: No handle found	ShellExperienc	c:\windows\system32\mfmediaengine.dll	2018-03-31 10:47:43	425	3200	2944	2018-03-31 10:47:42 UTC+0000	 	0
+3200	Warning: No handle found	ShellExperienc	c:\windows\system32\windows.web.dll	2018-04-12 07:04:10	1023387	3200	324	2018-04-12 07:04:10 UTC+0000	 	0
+3200	Warning: No handle found	ShellExperienc	c:\windows\system32\windows.web.dll	2018-04-12 07:04:10	1023387	3200	2992	2018-04-12 07:04:10 UTC+0000	 	0
+4320	Warning: No handle found	SearchUI.exe	c:\windows\system32\rasadhlp.dll	2018-03-31 10:36:30	3	4320	4852	2018-03-31 10:36:25 UTC+0000	 	0
+4320	Warning: No handle found	SearchUI.exe	c:\windows\system32\rasadhlp.dll	2018-03-31 10:36:30	3	4320	4880	2018-03-31 10:36:26 UTC+0000	 	0
+4320	Warning: No handle found	SearchUI.exe	c:\windows\system32\rasadhlp.dll	2018-03-31 10:36:30	3	4320	5040	2018-03-31 10:36:30 UTC+0000	 	0
+4320	Warning: No handle found	SearchUI.exe	c:\windows\systemapps\microsoft.windows.cortana_cw5n1h2txyewy\cortanaapi.proxystub.dll	2018-03-31 10:39:18	168	4320	6388	2018-03-31 10:39:17 UTC+0000	 	0
+4320	Warning: No handle found	SearchUI.exe	c:\windows\systemapps\microsoft.windows.cortana_cw5n1h2txyewy\cortanaapi.proxystub.dll	2018-03-31 10:39:18	168	4320	6400	2018-03-31 10:39:17 UTC+0000	 	0
+4320	Warning: No handle found	SearchUI.exe	c:\windows\systemapps\microsoft.windows.cortana_cw5n1h2txyewy\cortanaapi.proxystub.dll	2018-03-31 10:39:18	168	4320	6404	2018-03-31 10:39:17 UTC+0000	 	0
+4320	Warning: No handle found	SearchUI.exe	c:\windows\system32\cortana.persona.dll	2018-03-31 10:39:20	2	4320	6388	2018-03-31 10:39:17 UTC+0000	 	0
+4320	Warning: No handle found	SearchUI.exe	c:\windows\system32\cortana.persona.dll	2018-03-31 10:39:20	2	4320	6400	2018-03-31 10:39:17 UTC+0000	 	0
+4320	Warning: No handle found	SearchUI.exe	c:\windows\system32\cortana.persona.dll	2018-03-31 10:39:20	2	4320	6404	2018-03-31 10:39:17 UTC+0000	 	0
+3700	Warning: No handle found	TiWorker.exe	c:\windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.14393.2151_none_7f2129e421da1aca\msdelta.dll	2018-03-31 13:10:08	7	3700	4516	2018-03-31 13:10:01 UTC+0000	 	0
+2018-08-26 09:57:58.621995

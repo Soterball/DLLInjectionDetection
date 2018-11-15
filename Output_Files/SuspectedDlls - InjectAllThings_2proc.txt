@@ -1,0 +1,126 @@
+2018-08-29 09:46:23.988276	FindDllInj on /media/sf_Shared/KALI/InjectAllThings_2proc.vmem TimeWindow: 10 OneProcess: False
+Pid	Description	ImageFileName	Dll	DllLoadTime	TimeDifference from previously loaded Dll in sec	ThreadPid	ThreadTid	ThreadLoadTime	ThreadExitTime	ThreadHandlePid
+4	Warning: No Imported Dll found	System
+4	Warning: No Loaded Dlls found	System
+1880	Warning: No Imported Dll found	IpOverUsbSvc.e
+2096	Warning: No Imported Dll found	MemCompression
+2096	Warning: No Loaded Dlls found	MemCompression
+3144	Warning: No Imported Dll found	cygrunsrv.exe
+3144	Warning: No Loaded Dlls found	cygrunsrv.exe
+5620	Warning: No Imported Dll found	smss.exe
+5620	Warning: No Loaded Dlls found	smss.exe
+2992	Warning: No Imported Dll found	userinit.exe
+2992	Warning: No Loaded Dlls found	userinit.exe
+4408	Warning: No Imported Dll found	OneDrive.exe
+2044	Warning: No Imported Dll found	ProcessHackerP
+1780	Warning: No Imported Dll found	SkypeHost.exe
+5048	Warning: No Imported Dll found	cmd.exe
+5048	Warning: No Loaded Dlls found	cmd.exe
+2720	Warning: No Imported Dll found	ipconfig.exe
+2720	Warning: No Loaded Dlls found	ipconfig.exe
+592	Warning: No handle found	services.exe	c:\windows\system32\spinf.dll	2018-06-04 14:57:59	7	592	724	2018-06-04 14:57:52 UTC+0000	 	0
+592	Warning: No handle found	services.exe	c:\windows\system32\userenv.dll	2018-06-04 14:58:01	2	592	724	2018-06-04 14:57:52 UTC+0000	 	0
+600	Warning: No handle found	lsass.exe	c:\windows\system32\wevtapi.dll	2018-06-04 14:57:56	4	600	620	2018-06-04 14:57:51 UTC+0000	 	0
+600	Warning: No handle found	lsass.exe	c:\windows\system32\wevtapi.dll	2018-06-04 14:57:56	4	600	632	2018-06-04 14:57:51 UTC+0000	 	0
+600	Warning: No handle found	lsass.exe	c:\windows\system32\mpr.dll	2018-06-04 14:58:01	5	600	620	2018-06-04 14:57:51 UTC+0000	 	0
+600	Warning: No handle found	lsass.exe	c:\windows\system32\mpr.dll	2018-06-04 14:58:01	5	600	632	2018-06-04 14:57:51 UTC+0000	 	0
+680	Warning: No handle found	svchost.exe	c:\windows\system32\cryptbase.dll	2018-06-04 14:57:56	2	680	732	2018-06-04 14:57:52 UTC+0000	 	0
+680	Warning: No handle found	svchost.exe	c:\windows\system32\cryptbase.dll	2018-06-04 14:57:56	2	680	736	2018-06-04 14:57:52 UTC+0000	 	0
+680	Warning: No handle found	svchost.exe	c:\windows\system32\cryptbase.dll	2018-06-04 14:57:56	2	680	740	2018-06-04 14:57:52 UTC+0000	 	0
+680	Warning: No handle found	svchost.exe	c:\windows\system32\cryptbase.dll	2018-06-04 14:57:56	2	680	820	2018-06-04 14:57:52 UTC+0000	 	0
+680	Warning: No handle found	svchost.exe	c:\windows\system32\cryptbase.dll	2018-06-04 14:57:56	2	680	940	2018-06-04 14:57:53 UTC+0000	 	0
+680	Warning: No handle found	svchost.exe	c:\windows\system32\onecoreuapcommonproxystub.dll	2018-06-04 14:58:24	28	680	3320	2018-06-04 14:58:24 UTC+0000	 	0
+680	Warning: No handle found	svchost.exe	c:\windows\system32\rsaenh.dll	2018-06-04 14:58:32	7	680	3320	2018-06-04 14:58:24 UTC+0000	 	0
+960	Warning: No handle found	svchost.exe	c:\windows\system32\npmproxy.dll	2018-06-04 14:57:56	2	960	1584	2018-06-04 14:57:56 UTC+0000	 	0
+960	Warning: No handle found	svchost.exe	c:\windows\system32\trkwks.dll	2018-06-04 14:58:01	5	960	1584	2018-06-04 14:57:56 UTC+0000	 	0
+960	Warning: No handle found	svchost.exe	c:\windows\system32\timebrokerclient.dll	2018-06-04 14:58:12	9	960	1100	2018-06-04 14:58:02 UTC+0000	 	0
+960	Warning: No handle found	svchost.exe	c:\windows\system32\timebrokerclient.dll	2018-06-04 14:58:12	9	960	1380	2018-06-04 14:58:03 UTC+0000	 	0
+988	Warning: No handle found	svchost.exe	c:\windows\system32\mpssvc.dll	2018-06-04 14:58:00	3	988	1844	2018-06-04 14:58:00 UTC+0000	 	0
+988	Warning: No handle found	svchost.exe	c:\windows\system32\diagperf.dll	2018-06-04 14:58:06	2	988	1844	2018-06-04 14:58:00 UTC+0000	 	0
+416	Warning: No handle found	svchost.exe	c:\windows\system32\sxs.dll	2018-06-04 14:58:03	7	416	1080	2018-06-04 14:57:54 UTC+0000	 	0
+416	Warning: No handle found	svchost.exe	c:\windows\system32\cdprt.dll	2018-06-04 15:00:45	44	416	4036	2018-06-04 15:00:45 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\usermgrcli.dll	2018-06-04 14:57:59	2	832	1228	2018-06-04 14:57:55 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\twinapi.appcore.dll	2018-06-04 14:58:08	2	832	1808	2018-06-04 14:58:00 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\twinapi.appcore.dll	2018-06-04 14:58:08	2	832	1812	2018-06-04 14:58:00 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\twinapi.appcore.dll	2018-06-04 14:58:08	2	832	1912	2018-06-04 14:58:01 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\twinapi.appcore.dll	2018-06-04 14:58:08	2	832	2432	2018-06-04 14:58:08 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\fwpolicyiomgr.dll	2018-06-04 14:58:11	2	832	1912	2018-06-04 14:58:01 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\fwpolicyiomgr.dll	2018-06-04 14:58:11	2	832	2432	2018-06-04 14:58:08 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\settingsync.dll	2018-06-04 14:58:17	3	832	2432	2018-06-04 14:58:08 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\settingsync.dll	2018-06-04 14:58:17	3	832	2880	2018-06-04 14:58:13 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\wbem\wmiprvsd.dll	2018-06-04 14:58:22	5	832	2880	2018-06-04 14:58:13 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\msi.dll	2018-06-04 14:59:28	14	832	5476	2018-06-04 14:59:19 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\wsmauto.dll	2018-06-04 15:00:51	5	832	1664	2018-06-04 15:00:46 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\wbem\wbemprox.dll	2018-06-04 15:00:55	4	832	1664	2018-06-04 15:00:46 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\wbem\wbemprox.dll	2018-06-04 15:00:55	4	832	3432	2018-06-04 15:00:54 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\wbem\wbemprox.dll	2018-06-04 15:00:55	4	832	5216	2018-06-04 15:00:54 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\wbem\wbemprox.dll	2018-06-04 15:00:55	4	832	1708	2018-06-04 15:00:54 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\windows.web.dll	2018-06-04 15:00:57	2	832	3432	2018-06-04 15:00:54 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\windows.web.dll	2018-06-04 15:00:57	2	832	5216	2018-06-04 15:00:54 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\windows.web.dll	2018-06-04 15:00:57	2	832	1708	2018-06-04 15:00:54 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\dpx.dll	2018-06-04 15:00:59	2	832	3432	2018-06-04 15:00:54 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\dpx.dll	2018-06-04 15:00:59	2	832	5216	2018-06-04 15:00:54 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\dpx.dll	2018-06-04 15:00:59	2	832	1708	2018-06-04 15:00:54 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\netsetupsvc.dll	2018-06-04 15:05:45	166	832	5764	2018-06-04 15:05:45 UTC+0000	 	0
+832	Warning: No handle found	svchost.exe	c:\windows\system32\netsetupsvc.dll	2018-06-04 15:05:45	166	832	6072	2018-06-04 15:05:45 UTC+0000	 	0
+1124	Warning: No handle found	svchost.exe	c:\windows\system32\cryptsvc.dll	2018-06-04 14:58:00	3	1124	1680	2018-06-04 14:57:57 UTC+0000	 	0
+1124	Warning: No handle found	svchost.exe	c:\windows\system32\vssapi.dll	2018-06-04 14:58:03	2	1124	1680	2018-06-04 14:57:57 UTC+0000	 	0
+1124	Warning: No handle found	svchost.exe	c:\windows\system32\esent.dll	2018-06-04 14:59:06	63	1124	2280	2018-06-04 14:59:06 UTC+0000	 	0
+1124	Warning: No handle found	svchost.exe	c:\windows\system32\esent.dll	2018-06-04 14:59:06	63	1124	1848	2018-06-04 14:59:06 UTC+0000	 	0
+1168	Warning: No handle found	svchost.exe	c:\windows\system32\twinapi.appcore.dll	2018-06-04 15:05:16	441	1168	4788	2018-06-04 15:05:16 UTC+0000	 	0
+1168	Warning: No handle found	svchost.exe	c:\windows\system32\twinapi.appcore.dll	2018-06-04 15:05:16	441	1168	3604	2018-06-04 15:05:16 UTC+0000	 	0
+1860	Warning: No handle found	svchost.exe	c:\windows\system32\policymanager.dll	2018-06-04 14:58:06	3	1860	2292	2018-06-04 14:58:06 UTC+0000	 	0
+1860	Warning: No handle found	svchost.exe	c:\windows\system32\actxprxy.dll	2018-06-04 14:58:08	2	1860	2292	2018-06-04 14:58:06 UTC+0000	 	0
+1860	Warning: No handle found	svchost.exe	c:\windows\system32\courtesyengine.dll	2018-06-04 14:58:14	6	1860	2292	2018-06-04 14:58:06 UTC+0000	 	0
+1984	Warning: No handle found	vmtoolsd.exe	c:\windows\system32\perfos.dll	2018-06-04 14:59:31	6	1984	6044	2018-06-04 14:59:31 UTC+0000	 	0
+2012	Warning: No handle found	MsMpEng.exe	c:\windows\system32\windows.applicationmodel.dll	2018-06-04 15:04:08	64	2012	5140	2018-06-04 15:04:00 UTC+0000	 	0
+2208	Warning: No handle found	svchost.exe	c:\windows\system32\ipsecsvc.dll	2018-06-04 14:58:08	3	2208	2412	2018-06-04 14:58:08 UTC+0000	 	0
+2664	Warning: No handle found	dllhost.exe	c:\windows\system32\xolehlp.dll	2018-06-04 14:58:19	7	2664	2712	2018-06-04 14:58:11 UTC+0000	 	0
+2664	Warning: No handle found	dllhost.exe	c:\windows\system32\xolehlp.dll	2018-06-04 14:58:19	7	2664	2864	2018-06-04 14:58:12 UTC+0000	 	0
+3752	Warning: No handle found	WmiPrvSE.exe	c:\windows\system32\netfxperf.dll	2018-06-04 15:03:26	289	3752	3988	2018-06-04 15:03:26 UTC+0000	 	0
+4320	Warning: No handle found	svchost.exe	c:\windows\system32\actxprxy.dll	2018-06-04 14:59:44	2	4320	2264	2018-06-04 14:59:40 UTC+0000	 	0
+4320	Warning: No handle found	svchost.exe	c:\windows\system32\wpnapps.dll	2018-06-04 14:59:47	3	4320	2264	2018-06-04 14:59:40 UTC+0000	 	0
+5272	Warning: No handle found	taskhostw.exe	c:\windows\system32\userenv.dll	2018-06-04 14:59:49	2	5272	3224	2018-06-04 14:59:49 UTC+0000	 	0
+5272	Warning: No handle found	taskhostw.exe	c:\windows\system32\userenv.dll	2018-06-04 14:59:49	2	5272	3632	2018-06-04 14:59:49 UTC+0000	 	0
+5000	Warning: No handle found	explorer.exe	c:\windows\system32\smartscreenps.dll	2018-06-04 15:00:01	5	5000	4308	2018-06-04 14:59:54 UTC+0000	 	0
+5000	Suspicious process	explorer.exe	c:\users\ieuser\desktop\injectallthethings-master\x64\release\dllmain.dll	2018-06-04 15:05:16	195	5000	68	2018-06-04 15:05:16 UTC+0000	 	244
+5000	Warning: No handle found	explorer.exe	c:\users\ieuser\desktop\injectallthethings-master\x64\release\dllmain.dll	2018-06-04 15:05:16	195	5000	5732	2018-06-04 15:05:16 UTC+0000	 	0
+5000	Warning: No handle found	explorer.exe	c:\users\ieuser\desktop\injectallthethings-master\x64\release\dllmain.dll	2018-06-04 15:05:16	195	5000	5556	2018-06-04 15:05:16 UTC+0000	 	0
+4332	Warning: No handle found	ShellExperienc	c:\windows\system32\windows.media.mediacontrol.dll	2018-06-04 15:05:16	6	4332	1120	2018-06-04 15:05:16 UTC+0000	 	0
+4332	Warning: No handle found	ShellExperienc	c:\windows\system32\windows.media.mediacontrol.dll	2018-06-04 15:05:16	6	4332	3504	2018-06-04 15:05:16 UTC+0000	 	0
+4332	Warning: No handle found	ShellExperienc	c:\windows\system32\winmmbase.dll	2018-06-04 15:05:20	2	4332	1120	2018-06-04 15:05:16 UTC+0000	 	0
+4332	Warning: No handle found	ShellExperienc	c:\windows\system32\winmmbase.dll	2018-06-04 15:05:20	2	4332	3504	2018-06-04 15:05:16 UTC+0000	 	0
+3284	Warning: No handle found	SearchUI.exe	c:\windows\system32\rasadhlp.dll	2018-06-04 14:59:52	2	3284	3164	2018-06-04 14:59:50 UTC+0000	 	0
+3284	Warning: No handle found	SearchUI.exe	c:\windows\system32\rasadhlp.dll	2018-06-04 14:59:52	2	3284	4448	2018-06-04 14:59:50 UTC+0000	 	0
+2560	Suspicious process	notepad.exe	c:\users\ieuser\desktop\injectallthethings-master\x64\release\dllmain.dll	2018-06-04 15:02:09	125	2560	2540	2018-06-04 15:02:08 UTC+0000	 	6060
+2560	Suspicious process	notepad.exe	c:\users\ieuser\desktop\injectallthethings-master\x64\release\dllmain.dll	2018-06-04 15:02:09	125	2560	2540	2018-06-04 15:02:08 UTC+0000	 	3492
+6060	Warning: No handle found	ProcessHacker.	c:\windows\system32\dbghelp.dll	2018-06-04 15:02:58	129	6060	5460	2018-06-04 15:02:51 UTC+0000	 	0
+5952	Warning: No handle found	TiWorker.exe	c:\windows\system32\gpapi.dll	2018-06-04 15:01:16	15	5952	2592	2018-06-04 15:01:16 UTC+0000	 	0
+5952	Warning: No handle found	TiWorker.exe	c:\windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.14393.2151_none_7f2129e421da1aca\msdelta.dll	2018-06-04 15:01:21	5	5952	2592	2018-06-04 15:01:16 UTC+0000	 	0
+2892	Warning: No handle found	backgroundTask	c:\windows\system32\mlang.dll	2018-06-04 15:04:09	9	2892	2652	2018-06-04 15:04:00 UTC+0000	 	0
+1780	Warning: No handle found	SkypeHost.exe	c:\windows\system32\ws2_32.dll	2018-06-04 15:05:23	20	1780	4824	2018-06-04 15:05:23 UTC+0000	 	0
+1780	Warning: No handle found	SkypeHost.exe	c:\windows\system32\ws2_32.dll	2018-06-04 15:05:23	20	1780	4512	2018-06-04 15:05:23 UTC+0000	 	0
+1780	Warning: No handle found	SkypeHost.exe	c:\windows\system32\ws2_32.dll	2018-06-04 15:05:23	20	1780	4984	2018-06-04 15:05:23 UTC+0000	 	0
+1780	Warning: No handle found	SkypeHost.exe	c:\program files\windowsapps\microsoft.vclibs.140.00_14.0.25426.0_x64__8wekyb3d8bbwe\concrt140_app.dll	2018-06-04 15:05:28	4	1780	4824	2018-06-04 15:05:23 UTC+0000	 	0
+1780	Warning: No handle found	SkypeHost.exe	c:\program files\windowsapps\microsoft.vclibs.140.00_14.0.25426.0_x64__8wekyb3d8bbwe\concrt140_app.dll	2018-06-04 15:05:28	4	1780	4512	2018-06-04 15:05:23 UTC+0000	 	0
+1780	Warning: No handle found	SkypeHost.exe	c:\program files\windowsapps\microsoft.vclibs.140.00_14.0.25426.0_x64__8wekyb3d8bbwe\concrt140_app.dll	2018-06-04 15:05:28	4	1780	4984	2018-06-04 15:05:23 UTC+0000	 	0
+1780	Warning: No handle found	SkypeHost.exe	c:\windows\system32\mfplat.dll	2018-06-04 15:05:31	3	1780	4824	2018-06-04 15:05:23 UTC+0000	 	0
+1780	Warning: No handle found	SkypeHost.exe	c:\windows\system32\mfplat.dll	2018-06-04 15:05:31	3	1780	4512	2018-06-04 15:05:23 UTC+0000	 	0
+1780	Warning: No handle found	SkypeHost.exe	c:\windows\system32\mfplat.dll	2018-06-04 15:05:31	3	1780	4984	2018-06-04 15:05:23 UTC+0000	 	0
+5592	Warning: No handle found	OfficeHubTaskH	c:\windows\system32\windows.storage.dll	2018-06-04 15:05:08	4	5592	488	2018-06-04 15:05:08 UTC+0000	 	0
+5592	Warning: No handle found	OfficeHubTaskH	c:\windows\system32\windows.storage.dll	2018-06-04 15:05:08	4	5592	580	2018-06-04 15:05:08 UTC+0000	 	0
+5592	Warning: No handle found	OfficeHubTaskH	c:\windows\system32\msxml6.dll	2018-06-04 15:05:12	2	5592	488	2018-06-04 15:05:08 UTC+0000	 	0
+5592	Warning: No handle found	OfficeHubTaskH	c:\windows\system32\msxml6.dll	2018-06-04 15:05:12	2	5592	580	2018-06-04 15:05:08 UTC+0000	 	0
+5592	Warning: No handle found	OfficeHubTaskH	c:\windows\system32\msxml6.dll	2018-06-04 15:05:12	2	5592	568	2018-06-04 15:05:09 UTC+0000	 	0
+5592	Warning: No handle found	OfficeHubTaskH	c:\windows\system32\rasadhlp.dll	2018-06-04 15:05:16	3	5592	488	2018-06-04 15:05:08 UTC+0000	 	0
+5592	Warning: No handle found	OfficeHubTaskH	c:\windows\system32\rasadhlp.dll	2018-06-04 15:05:16	3	5592	580	2018-06-04 15:05:08 UTC+0000	 	0
+5592	Warning: No handle found	OfficeHubTaskH	c:\windows\system32\rasadhlp.dll	2018-06-04 15:05:16	3	5592	568	2018-06-04 15:05:09 UTC+0000	 	0
+5592	Warning: No handle found	OfficeHubTaskH	c:\windows\system32\actxprxy.dll	2018-06-04 15:05:25	8	5592	5744	2018-06-04 15:05:17 UTC+0000	 	0
+5592	Warning: No handle found	OfficeHubTaskH	c:\program files\windowsapps\microsoft.microsoftofficehub_17.9206.1701.0_x64__8wekyb3d8bbwe\office16\officehubbackgroundtask.dll	2018-06-04 15:05:27	2	5592	5744	2018-06-04 15:05:17 UTC+0000	 	0
+3608	Warning: No handle found	backgroundTask	c:\windows\systemapps\microsoft.windows.cortana_cw5n1h2txyewy\cortana.nodewinrtwrap.dll	2018-06-04 15:04:14	4	3608	3576	2018-06-04 15:04:10 UTC+0000	 	0
+3608	Warning: No handle found	backgroundTask	c:\windows\system32\ws2_32.dll	2018-06-04 15:04:17	3	3608	3576	2018-06-04 15:04:10 UTC+0000	 	0
+3608	Warning: No handle found	backgroundTask	c:\windows\system32\windows.applicationmodel.dll	2018-06-04 15:05:09	52	3608	5612	2018-06-04 15:05:09 UTC+0000	 	0
+3608	Warning: No handle found	backgroundTask	c:\windows\system32\windows.applicationmodel.dll	2018-06-04 15:05:09	52	3608	352	2018-06-04 15:05:09 UTC+0000	 	0
+3608	Warning: No handle found	backgroundTask	c:\windows\system32\mswsock.dll	2018-06-04 15:05:17	8	3608	5612	2018-06-04 15:05:09 UTC+0000	 	0
+3608	Warning: No handle found	backgroundTask	c:\windows\system32\mswsock.dll	2018-06-04 15:05:17	8	3608	352	2018-06-04 15:05:09 UTC+0000	 	0
+2018-08-29 10:32:33.608729
